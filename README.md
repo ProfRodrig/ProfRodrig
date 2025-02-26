@@ -1,5 +1,5 @@
 # Professor John Paul Rodrigues
-**Assistant Professor at [Passaic County Community College](https://pccc.edu)*
+**Assistant Professor at [Passaic County Community College](https://pccc.edu)**
 *You may contact me at [jrodrigues@pccc.edu](jrodrigues@pccc.edu)* 
 
 
