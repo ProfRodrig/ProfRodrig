@@ -4,11 +4,11 @@
 
 
 ## Bio
-Hello everyone, I am Prof. Rodrigues. I was born and raised in Brazil in a smalltown in the state of Rio de Janeiro.
+- Hello everyone, I am Prof. Rodrigues. I was born and raised in Brazil in a smalltown in the state of Rio de Janeiro.
 
-From 2011 to 2015 I studied at Stevens Institute of Technology in Hoboken, New Jersey. I received a Bachelor's of Science in Computer Engineering and a Master's of Science in Computer Science.
+- From 2011 to 2015 I studied at Stevens Institute of Technology in Hoboken, New Jersey. I received a Bachelor's of Science in Computer Engineering and a Master's of Science in Computer Science.
 
-I am now an assistant professor at PCCC. 
+- I am now an assistant professor at PCCC. 
 
 
 
